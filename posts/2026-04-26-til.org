@@ -1,0 +1,17 @@
+#+title: til
+#+date: <2026-04-26 16:01>
+#+description:
+#+filetags: claude-code
+* til
+Learned a handful of nifty claude things today.
+**  =/powerup=
+has a great set of bite-sized tips for leveling up your claude game.
+**  =/rewind=
+(which I'd already been using the past couple weeks) has a
+handy =Esc-Esc= keybinding. I actually requently use this simply as
+a means of briefly reviewing the prompt history to see where we're
+at in the conversation. =Esc-Esc=, then =Esc= again to bounce out.
+**  =/branch=
+This is a new one for me. Seems like it could be really
+powerful in tandem with the =rewind=-heavy workflow I've been using
+recently for product and design discovery.

@@ -5,7 +5,67 @@
 <description><![CDATA[amohrland]]></description>
 <link>https://amohrland.github.io/</link>
 <atom:link href="https://amohrland.github.io/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sun, 26 Apr 2026 15:56:35 -0700</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 16:10:34 -0700</lastBuildDate>
+<item>
+  <title><![CDATA[til]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org168a568">1. til</a>
+<ul>
+<li><a href="#org487ca1c">1.1. <code>/powerup</code></a></li>
+<li><a href="#org5ecbad1">1.2. <code>/rewind</code></a></li>
+<li><a href="#orge1f6f43">1.3. <code>/branch</code></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<div id="outline-container-org168a568" class="outline-2">
+<h2 id="org168a568"><span class="section-number-2">1.</span> til</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Learned a handful of nifty claude things today.
+</p>
+</div>
+<div id="outline-container-org487ca1c" class="outline-3">
+<h3 id="org487ca1c"><span class="section-number-3">1.1.</span> <code>/powerup</code></h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+has a great set of bite-sized tips for leveling up your claude game.
+</p>
+</div>
+</div>
+<div id="outline-container-org5ecbad1" class="outline-3">
+<h3 id="org5ecbad1"><span class="section-number-3">1.2.</span> <code>/rewind</code></h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+(which I'd already been using the past couple weeks) has a
+handy <code>Esc-Esc</code> keybinding. I actually requently use this simply as
+a means of briefly reviewing the prompt history to see where we're
+at in the conversation. <code>Esc-Esc</code>, then <code>Esc</code> again to bounce out.
+</p>
+</div>
+</div>
+<div id="outline-container-orge1f6f43" class="outline-3">
+<h3 id="orge1f6f43"><span class="section-number-3">1.3.</span> <code>/branch</code></h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+This is a new one for me. Seems like it could be really
+powerful in tandem with the <code>rewind</code>-heavy workflow I've been using
+recently for product and design discovery.
+</p>
+</div>
+</div>
+</div>
+<div class="taglist"><a href="https://amohrland.github.io/tags.html"><span class="tag-label">Tags</span></a><span class="tag-separator">: </span><span class="taglist__tags"><a href="https://amohrland.github.io/tag-claude-code.html" class="tag" data-tag="claude-code" data-index="0">claude-code</a> </span></div>]]></description>
+  <category><![CDATA[claude-code]]></category>
+  <link>https://amohrland.github.io/2026-04-26-til.html</link>
+  <guid>https://amohrland.github.io/2026-04-26-til.html</guid>
+  <pubDate>Sun, 26 Apr 2026 16:01:00 -0700</pubDate>
+</item>
 <item>
   <title><![CDATA[Hello, World]]></title>
   <description><![CDATA[
