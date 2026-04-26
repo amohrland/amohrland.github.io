@@ -8,8 +8,7 @@ I'm a software engineer with strengths in distributed systems and event-driven a
 
 Recently, I've been focused on the fun world of agentic coding systems.
 
-* About This Blog
 
-This blog is built with [[https://github.com/bastibe/org-static-blog][org-static-blog]] and Emacs [[https://orgmode.org][org-mode]], hosted on [[https://pages.github.com][GitHub Pages]].
+* Now
 
-Posts are written as plain =.org= files and published as static HTML.
+To see what I'm learning and reading these days, check out my [[file:now.html][Now]] page.

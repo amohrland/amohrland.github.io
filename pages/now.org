@@ -1,0 +1,13 @@
+#+TITLE: Now
+
+This is a [[https://nownownow.com/about][now page]].
+
+/Last updated: April 2026./
+
+* What I'm Learning
+
+- Rust
+- Claude Code
+
+* What I'm Reading
+- [[https://rust-book.cs.brown.edu/][The Rust Programming Language]]
