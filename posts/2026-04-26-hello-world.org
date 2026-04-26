@@ -1,0 +1,7 @@
+#+TITLE: Hello, World
+#+DATE: <2026-04-26 Sun>
+#+FILETAGS: meta
+
+This is the first post on my new blog, built with [[https://github.com/bastibe/org-static-blog][org-static-blog]] and Emacs org-mode.
+
+Posts are written as plain =.org= files and published as static HTML — no build tools, no JavaScript frameworks, just Emacs.

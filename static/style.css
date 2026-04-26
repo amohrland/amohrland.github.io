@@ -1,0 +1,125 @@
+:root {
+  --fg: #2e3440;
+  --bg: #fafafa;
+  --accent: #5e81ac;
+  --muted: #6c757d;
+  --border: #dee2e6;
+  --code-bg: #f0f0f0;
+  --max-width: 42rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #d8dee9;
+    --bg: #2e3440;
+    --accent: #88c0d0;
+    --muted: #9ca3af;
+    --border: #4c566a;
+    --code-bg: #3b4252;
+  }
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--fg);
+  background: var(--bg);
+  padding: 2rem 1.5rem;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+h1, h2, h3, h4 {
+  line-height: 1.3;
+  margin: 1.8rem 0 0.6rem;
+}
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.15rem; }
+
+p, ul, ol, blockquote, pre, table { margin-bottom: 1.2rem; }
+ul, ol { padding-left: 1.5rem; }
+
+blockquote {
+  border-left: 3px solid var(--accent);
+  padding: 0.3rem 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+code {
+  font-family: "SF Mono", "Fira Code", "Cascadia Code", Menlo, monospace;
+  font-size: 0.9em;
+  background: var(--code-bg);
+  padding: 0.15em 0.35em;
+  border-radius: 3px;
+}
+
+pre {
+  background: var(--code-bg);
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+pre code { background: none; padding: 0; }
+
+img { max-width: 100%; height: auto; border-radius: 4px; }
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+th { font-weight: 600; }
+
+#preamble {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+#preamble a {
+  margin-right: 1.2rem;
+  font-weight: 500;
+}
+
+#postamble {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.post-date {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.taglist { font-size: 0.85rem; color: var(--muted); }
+.taglist a { margin-right: 0.5rem; }
+
+.archive { list-style: none; padding: 0; }
+.archive li { margin-bottom: 0.4rem; }
+.archive .date {
+  display: inline-block;
+  width: 7rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}

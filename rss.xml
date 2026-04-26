@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title><![CDATA[amohrland]]></title>
+<description><![CDATA[amohrland]]></description>
+<link>https://amohrland.github.io/</link>
+<atom:link href="https://amohrland.github.io/rss.xml" rel="self" type="application/rss+xml" />
+<lastBuildDate>Sun, 26 Apr 2026 14:29:40 -0700</lastBuildDate>
+<item>
+  <title><![CDATA[Hello, World]]></title>
+  <description><![CDATA[
+<p>
+This is the first post on my new blog, built with <a href="https://github.com/bastibe/org-static-blog">org-static-blog</a> and Emacs org-mode.
+</p>
+
+<p>
+Posts are written as plain <code>.org</code> files and published as static HTML — no build tools, no JavaScript frameworks, just Emacs.
+</p>
+<div class="taglist"><a href="https://amohrland.github.io/tags.html"><span class="tag-label">Tags</span></a><span class="tag-separator">: </span><span class="taglist__tags"><a href="https://amohrland.github.io/tag-meta.html" class="tag" data-tag="meta" data-index="0">meta</a> </span></div>]]></description>
+  <category><![CDATA[meta]]></category>
+  <link>https://amohrland.github.io/2026-04-26-hello-world.html</link>
+  <guid>https://amohrland.github.io/2026-04-26-hello-world.html</guid>
+  <pubDate>Sun, 26 Apr 2026 00:00:00 -0700</pubDate>
+</item>
+</channel>
+</rss>
