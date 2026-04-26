@@ -1,0 +1,11 @@
+#+TITLE: About
+
+* About Me
+
+Welcome! I'm Andrew Mohrland.
+
+* About This Blog
+
+This blog is built with [[https://github.com/bastibe/org-static-blog][org-static-blog]] and Emacs [[https://orgmode.org][org-mode]], hosted on [[https://pages.github.com][GitHub Pages]].
+
+Posts are written as plain =.org= files and published as static HTML.
